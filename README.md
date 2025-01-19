@@ -65,7 +65,7 @@ This project combines two tasks:
 │   ├── LICENSE                   # License file
 │   ├── requirements.txt          # Dependency list
 │   └── .gitignore                # Git ignore rules
-
+```
 
 ## Installation and Usage
 
@@ -73,20 +73,20 @@ This project combines two tasks:
 ```bash
 git clone <repository_url>
 cd <project_directory>
-
+```
 ### 2. Create and activate a virtual environment
 ```bash
 python -m venv venv
 source venv/bin/activate          # On Windows: venv\Scripts\activate
-
+```
 ### 3. Install dependencies
 ```bash
 pip install -r requirements.txt
-
+```
 ### 4. Run the project
 ```bash
 python __main__.py
-
+```
 ## Further Reading
 
 For those interested in understanding more about the PNG format, its chunks, and related topics, here are some useful resources:
